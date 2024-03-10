@@ -1,2 +1,1 @@
-# anjali.github.io
-Data Engineering &amp; Analytics Portfolio
+# Data Engineering &amp; Analytics Portfolio
